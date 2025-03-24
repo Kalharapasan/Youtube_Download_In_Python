@@ -1,0 +1,24 @@
+pip install pytube
+
+pip install yt-dlp
+
+
+pip install pyinstaller
+
+pyinstaller --onefile --windowed App.py
+
+pyinstaller --onefile --windowed --icon=your_icon.ico App.py
+
+
+mobile application
+
+pip install kivy
+pip install kivymd  # Material Design widgets for Kivy
+
+pip install buildozer
+sudo apt install build-essential libffi-dev python3-dev
+sudo apt install openjdk-11-jdk
+
+buildozer init
+
+
